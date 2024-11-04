@@ -2,7 +2,7 @@
 
 ## Individual Work Overview
 
-For this individual work, I decided to incorporate the coding knowledge I learnt from this course to make make the some elements of the artwork could be changed by thinking of the direction of user input.
+For this individual work, I chose to apply the coding skills I acquired in this course to make certain elements of the artwork interactive, allowing them to respond to different types of user input.
 
 ## Introduction of the Functions
 
